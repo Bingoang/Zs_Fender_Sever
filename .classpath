@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA2/jar/jcalendarbutton-1.4.5-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA2/jar/mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA2/jar/rt.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA2/jar/RXTXcomm.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javacv0.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
